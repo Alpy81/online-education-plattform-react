@@ -21,6 +21,12 @@ const Footer = () => {
         <div className="container padding">
           <div className="box logo">
             <h1>
+              <img
+                id="logo"
+                className="logo-symbol"
+                src="/images/logo.png"
+                alt="Logo"
+              />
               E <span id="d">D</span> U <span id="c">C</span> Y
             </h1>
             <p>Where Students come togehter and learn the world!</p>
